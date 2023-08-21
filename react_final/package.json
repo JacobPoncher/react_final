@@ -1,7 +1,7 @@
 {
   "name": "react_final",
   "version": "0.1.0",
-  "homepage": "https://JacobPoncher.github.io/JacobPoncher.github.io",
+  "homepage": "https://JacobPoncher.github.io/react_final",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",
